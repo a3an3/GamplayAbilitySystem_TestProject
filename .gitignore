@@ -4,6 +4,8 @@ Intermediate
 Saved
 Build
 .vscode
+.idea/
+.DS_Store
 
 .vs
 *.VC.db
